@@ -8,6 +8,7 @@ void setup()
     boom[i] = new Star();
   boom[0] = new Planet();
   boom[20] = new Planet();
+  boom[100] = new Planet();
 
 }
 void draw()
